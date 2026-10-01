@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Abstract browser mockup of a modern company website">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#131029"/>
+    </linearGradient>
+    <linearGradient id="ac2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#bg2)"/>
+  <!-- browser chrome -->
+  <rect x="40" y="36" width="560" height="328" rx="14" fill="#0E1628" stroke="#94A3B8" stroke-opacity="0.22"/>
+  <rect x="40" y="36" width="560" height="34" rx="14" fill="#0A0F1D"/>
+  <rect x="40" y="56" width="560" height="14" fill="#0A0F1D"/>
+  <circle cx="62" cy="53" r="5" fill="#F87171" fill-opacity="0.8"/>
+  <circle cx="82" cy="53" r="5" fill="#FBBF24" fill-opacity="0.8"/>
+  <circle cx="102" cy="53" r="5" fill="#34D399" fill-opacity="0.8"/>
+  <rect x="126" y="45" width="380" height="16" rx="8" fill="#111B30"/>
+  <rect x="138" y="50" width="100" height="6" rx="3" fill="#94A3B8" fill-opacity="0.35"/>
+  <!-- centered hero -->
+  <rect x="200" y="96" width="240" height="9" rx="4.5" fill="#38BDF8" fill-opacity="0.55"/>
+  <rect x="140" y="120" width="360" height="20" rx="7" fill="#F8FAFC" fill-opacity="0.92"/>
+  <rect x="196" y="148" width="248" height="20" rx="7" fill="#F8FAFC" fill-opacity="0.55"/>
+  <rect x="176" y="184" width="288" height="7" rx="3.5" fill="#94A3B8" fill-opacity="0.4"/>
+  <rect x="216" y="198" width="208" height="7" rx="3.5" fill="#94A3B8" fill-opacity="0.28"/>
+  <rect x="272" y="222" width="96" height="26" rx="13" fill="url(#ac2)"/>
+  <!-- feature band -->
+  <rect x="64" y="276" width="512" height="68" rx="12" fill="#111B30" stroke="#94A3B8" stroke-opacity="0.16"/>
+  <circle cx="100" cy="310" r="14" fill="#7C3AED" fill-opacity="0.5"/>
+  <rect x="126" y="298" width="80" height="8" rx="4" fill="#F8FAFC" fill-opacity="0.7"/>
+  <rect x="126" y="314" width="110" height="6" rx="3" fill="#94A3B8" fill-opacity="0.35"/>
+  <circle cx="300" cy="310" r="14" fill="#38BDF8" fill-opacity="0.45"/>
+  <rect x="326" y="298" width="80" height="8" rx="4" fill="#F8FAFC" fill-opacity="0.7"/>
+  <rect x="326" y="314" width="110" height="6" rx="3" fill="#94A3B8" fill-opacity="0.35"/>
+  <circle cx="500" cy="310" r="14" fill="url(#ac2)" fill-opacity="0.55"/>
+  <rect x="526" y="298" width="44" height="8" rx="4" fill="#F8FAFC" fill-opacity="0.7"/>
+  <rect x="526" y="314" width="40" height="6" rx="3" fill="#94A3B8" fill-opacity="0.35"/>
+</svg>
